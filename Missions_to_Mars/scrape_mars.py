@@ -34,7 +34,7 @@ def scrape():
     # Assigns latest news title and paragraph text
     # to info dictionary
     info_dict['latest_news_title'] = news_title 
-    info_dict['latest_news_title-p'] = news_p
+    info_dict['latest_news_p'] = news_p
 
     # URL for JPL Featured Space Image, visits site
     jpl_url = 'https://www.jpl.nasa.gov/images?search=&category=Mars'
