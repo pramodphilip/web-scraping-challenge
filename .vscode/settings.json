@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/pramodphilip/opt/anaconda3/bin/python"
+    "python.pythonPath": "/Users/pramodphilip/opt/anaconda3/bin/python",
+    "liveServer.settings.port": 5501
 }
